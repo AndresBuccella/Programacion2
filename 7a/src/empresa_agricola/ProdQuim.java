@@ -43,6 +43,6 @@ public class ProdQuim {
 	}
 
 	public ProdQuim esEfectivo(){
-
+		return null;
 	}
 }

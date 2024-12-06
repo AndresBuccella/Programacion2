@@ -1,6 +1,6 @@
 package busqueda_de_documentos.filtros;
 
-import src.busqueda_de_documentos.Documento;
+import busqueda_de_documentos.Documento;
 
 public class FiltroTituloExacto extends Filtro {
     private String titulo;

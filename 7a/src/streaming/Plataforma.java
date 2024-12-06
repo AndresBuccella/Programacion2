@@ -43,5 +43,6 @@ public class Plataforma {
         }
         return peliculasRentables;
     }
+
     public static void main(String[] args) {}
 }

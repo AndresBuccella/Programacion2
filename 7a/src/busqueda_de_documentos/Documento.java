@@ -1,6 +1,6 @@
 package busqueda_de_documentos;
 
-import src.busqueda_de_documentos.filtros.Filtro;
+import busqueda_de_documentos.filtros.Filtro;
 
 import java.util.ArrayList;
 
